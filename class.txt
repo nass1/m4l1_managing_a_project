@@ -11,3 +11,6 @@ Fuchsia
 Gray
 Brown
 Red
+Purple
+Brown
+Red
